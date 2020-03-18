@@ -1,0 +1,2 @@
+Length of the path,Chosen average velocity,Chosen rate,Number of samples,Planning time,Execution time,MSE,Avg cartesian velocity,Dist way1,Dist way2,Dista way3,Attempts,Initial Pos,waypoint1,waypoint2
+0.14149435055032758,3.0,600,2830,36.27387094497681,8.294724941253662,0.0009792193272016559,0.022820524343176843,0.0029341089714672026,0.00022950543591244692,0.00017151014941740213,1,"[0.035, 0.02, -0.12]","[0.08, 0.07, -0.12]","[0.09, 0.08, -0.14]"
